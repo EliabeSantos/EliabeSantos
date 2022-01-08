@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+### I am Eliabe Santos, a Front-end developer with expertise in Javascript and Design!
+
+I work for WeexPass, our target is offer experiences for people around the world!
+
+
 <!--
 **EliabeSantos/EliabeSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
