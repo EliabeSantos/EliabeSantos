@@ -29,12 +29,12 @@ Current i work with Typescript and NextJs, but in my carrer i learned the follow
 
 </div>
 <h1>✨ Design skills</h1>
-<div style={{display: "flex"; marginBottom: "40px"}}>
+<div style={{display: "flex"; marginBottom: "70px"}}>
 <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
 </div>
 
-
+<br />
 <div style={{display: "flex"; marginBottom: "40px"}}>
   <a href="https://github.com/EliabeSantos" />
    <img width="45%" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliabesantos&layout=compact&langs_count=16&theme-dracula" />
