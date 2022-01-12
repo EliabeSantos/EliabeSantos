@@ -9,7 +9,7 @@ I work for WeexPass, our target is offer experiences for people around the world
 
 Current i work with Typescript and NextJs, but in my carrer i learned the following...
 
-<h1>✨ skills</h1>
+<h1>✨ Tech skills</h1>
 
 
 <div style={{display: "flex"; marginBottom: "40px"}}>
@@ -19,6 +19,11 @@ Current i work with Typescript and NextJs, but in my carrer i learned the follow
 <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" />
+
+</div>
+<h1>✨ Design skills</h1>
+<div style={{display: "flex"; marginBottom: "40px"}}>
+<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
 </div>
 
