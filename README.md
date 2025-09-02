@@ -33,7 +33,7 @@ Current i work with Typescript and NextJs, but in my carrer i learned the follow
 <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
 </div>
-
+<p> 45.240.293/0001-12</p>
 <br />
 <div style={{display: "flex"; marginBottom: "40px"}}>
   <a href="https://github.com/EliabeSantos" />
